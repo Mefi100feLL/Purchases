@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_select_products"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_format_list_bulleted_white_24dp"
+        android:title="@string/action_change_list"/>
+
+    <item
+        android:id="@+id/action_filter_list"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_filter_list_white_24dp"
+        android:title="@string/action_filter_list"/>
+
+    <item
+        android:id="@+id/action_remove_buyed"
+        app:showAsAction="never"
+        android:title="@string/action_remove_buyed"/>
+
+    <item
+        android:id="@+id/action_change_list"
+        app:showAsAction="never"
+        android:title="@string/action_change_list"/>
+
+    <item
+        android:id="@+id/action_remove_list"
+        app:showAsAction="never"
+        android:title="@string/action_remove_list"/>
+
+    <item
+        android:id="@+id/action_send_list"
+        app:showAsAction="never"
+        android:title="@string/action_send_list"/>
+
+    <item
+        android:id="@+id/action_load_from_sms"
+        app:showAsAction="never"
+        android:title="@string/action_load_from_sms"/>
+
+    <item
+        android:id="@+id/action_put_alarm"
+        app:showAsAction="never"
+        android:title="@string/action_set_alarm"/>
+
+</menu>

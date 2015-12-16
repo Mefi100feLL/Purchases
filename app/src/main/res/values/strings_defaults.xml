@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_unit_one">шт</string>
+    <string name="default_unit_two">кг</string>
+    <string name="default_unit_three">литр</string>
+    <string name="default_unit_four">гр</string>
+    <string name="default_unit_five">мл</string>
+
+    <string name="default_one_currency">RUB</string>
+    <string name="default_two_currency">USD</string>
+    <string name="default_three_currency">EUR</string>
+
+    <string name="default_categ_one">Мясные и рыбные продукты</string>
+    <string name="default_categ_two">Овощи, фрукты, ягоды</string>
+    <string name="default_categ_three">Молочные изделия</string>
+    <string name="default_categ_four">Бакалея</string>
+    <string name="default_categ_five">Бытовые товары</string>
+    <string name="default_categ_six">Другое</string>
+
+
+    <string name="prefs_default_sort_list_one">по имени</string>
+    <string name="prefs_default_sort_list_two">по дате создания</string>
+
+
+    <string name="prefs_default_sort_listitem_one">по алфавиту (А-Я)</string>
+    <string name="prefs_default_sort_listitem_two">по алфавиту (Я-А)</string>
+    <string name="prefs_default_sort_listitem_three">по добавлению</string>
+</resources>

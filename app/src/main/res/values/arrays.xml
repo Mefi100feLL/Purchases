@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sizes_table_lists">
+        <item >1</item>
+        <item >2</item>
+    </string-array>
+
+    <array name="colors_for_citys">
+        <item>@color/md_indigo_500</item>
+        <item>@color/md_light_blue_500</item>
+        <item>@color/md_brown_500</item>
+        <item>@color/md_pink_500</item>
+        <item>@color/md_amber_500</item>
+        <item>@color/md_deep_purple_500</item>
+        <item>@color/md_yellow_500</item>
+        <item>@color/md_light_green_500</item>
+        <item>@color/md_blue_500</item>
+        <item>@color/md_cyan_500</item>
+        <item>@color/md_red_500</item>
+        <item>@color/md_teal_500</item>
+        <item>@color/md_lime_500</item>
+        <item>@color/md_blue_grey_500</item>
+        <item>@color/md_orange_500</item>
+        <item>@color/md_green_500</item>
+        <item>@color/md_purple_500</item>
+    </array>
+
+    <array name="categories_urls">
+        <item>/produkty/</item>
+        <item>/elektronika-i-bytovaya-tekhnika/</item>
+        <item>/kosmetika-i-bytovaya-khimiya/</item>
+        <item>/stroymaterialy/</item>
+        <item>/tovary-dlya-detey/</item>
+        <item>/odezhda-i-obuv/</item>
+        <item>/mebel/</item>
+        <item>/apteki/</item>
+        <item>/internet-magaziny/</item>
+        <item>/yuvelirnyye-izdeliya/</item>
+        <item>/magaziny-novogo-formata/</item>
+        <item>/tovary-dlya-avtomobilya/</item>
+        <item>/tovary-dlya-zhivotnykh/</item>
+    </array>
+
+    <array name="categories_icons">
+        <item>@mipmap/ic_food_grey600_24dp</item>
+        <item>@mipmap/ic_responsive_grey600_24dp</item>
+        <item>@mipmap/ic_brush_grey600_24dp</item>
+        <item>@mipmap/ic_home_variant_grey600_24dp</item>
+        <item>@mipmap/ic_duck_grey600_24dp</item>
+        <item>@mipmap/ic_tshirt_crew_grey600_24dp</item>
+        <item>@mipmap/ic_readability_grey600_24dp</item>
+        <item>@mipmap/ic_hospital_grey600_24dp</item>
+        <item>@mipmap/ic_shopping_music_grey600_24dp</item>
+        <item>@mipmap/ic_diamond_grey600_24dp</item>
+        <item>@mipmap/ic_store_grey600_24dp</item>
+        <item>@mipmap/ic_car_grey600_24dp</item>
+        <item>@mipmap/ic_cat_grey600_24dp</item>
+    </array>
+
+    <array name="colors">
+        <item>@color/md_indigo_500</item>
+        <item>@color/md_grey_500</item>
+        <item>@color/md_grey_800</item>
+        <item>@color/md_black_1000</item>
+        <item>@color/md_blue_grey_500</item>
+        <item>@color/md_brown_500</item>
+        <item>@color/md_red_500</item>
+        <item>@color/md_pink_500</item>
+        <item>@color/md_purple_500</item>
+        <item>@color/md_deep_purple_500</item>
+        <item>@color/md_blue_500</item>
+        <item>@color/md_light_blue_500</item>
+        <item>@color/md_cyan_500</item>
+        <item>@color/md_teal_500</item>
+        <item>@color/md_green_500</item>
+        <item>@color/md_light_green_500</item>
+        <item>@color/md_lime_500</item>
+        <item>@color/md_yellow_500</item>
+        <item>@color/md_amber_500</item>
+        <item>@color/md_orange_500</item>
+    </array>
+
+    <array name="themes">
+        <item>@style/IndigoTheme</item>
+        <item>@style/GreyTheme</item>
+        <item>@style/GreyDarkTheme</item>
+        <item>@style/BlackTheme</item>
+        <item>@style/BlueGreyTheme</item>
+        <item>@style/BrownTheme</item>
+        <item>@style/RedTheme</item>
+        <item>@style/PinkTheme</item>
+        <item>@style/PurpleTheme</item>
+        <item>@style/DeepPurpleTheme</item>
+        <item>@style/BlueTheme</item>
+        <item>@style/LightBlueTheme</item>
+        <item>@style/CyanTheme</item>
+        <item>@style/TealTheme</item>
+        <item>@style/GreenTheme</item>
+        <item>@style/LightGreenTheme</item>
+        <item>@style/LimeTheme</item>
+        <item>@style/YellowTheme</item>
+        <item>@style/AmberTheme</item>
+        <item>@style/OrangeTheme</item>
+    </array>
+
+    <array name="dialog_themes">
+        <item>@style/IndigoThemeDialog</item>
+        <item>@style/GreyThemeDialog</item>
+        <item>@style/GreyDarkThemeDialog</item>
+        <item>@style/BlackThemeDialog</item>
+        <item>@style/BlueGreyThemeDialog</item>
+        <item>@style/BrownThemeDialog</item>
+        <item>@style/RedThemeDialog</item>
+        <item>@style/PinkThemeDialog</item>
+        <item>@style/PurpleThemeDialog</item>
+        <item>@style/DeepPurpleThemeDialog</item>
+        <item>@style/BlueThemeDialog</item>
+        <item>@style/LightBlueThemeDialog</item>
+        <item>@style/CyanThemeDialog</item>
+        <item>@style/TealThemeDialog</item>
+        <item>@style/GreenThemeDialog</item>
+        <item>@style/LightGreenThemeDialog</item>
+        <item>@style/LimeThemeDialog</item>
+        <item>@style/YellowThemeDialog</item>
+        <item>@style/AmberThemeDialog</item>
+        <item>@style/OrangeThemeDialog</item>
+    </array>
+
+    <array name="headers">
+        <item>@drawable/indigo</item>
+        <item>@drawable/dark_grey</item>
+        <item>@drawable/dark_grey</item>
+        <item>@drawable/black</item>
+        <item>@drawable/blue_grey</item>
+        <item>@drawable/brown</item>
+        <item>@drawable/red</item>
+        <item>@drawable/pink</item>
+        <item>@drawable/purple</item>
+        <item>@drawable/deep_purple</item>
+        <item>@drawable/blue</item>
+        <item>@drawable/light_blue</item>
+        <item>@drawable/cyan</item>
+        <item>@drawable/teal</item>
+        <item>@drawable/green</item>
+        <item>@drawable/light_green</item>
+        <item>@drawable/lime</item>
+        <item>@drawable/yellow</item>
+        <item>@drawable/amber</item>
+        <item>@drawable/orange</item>
+    </array>
+
+</resources>

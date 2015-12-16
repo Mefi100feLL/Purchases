@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      tools:context="com.PopCorp.Purchases.ListsActivity">
+
+    <item
+        android:id="@+id/action_change_list"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_create_black_24dp"
+        android:title="@string/action_change_list"/>
+
+    <item
+        android:id="@+id/action_remove_list"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_delete_black_24dp"
+        android:title="@string/action_remove_list"/>
+
+    <item
+        android:id="@+id/action_send_list"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_share_black_24dp"
+        android:title="@string/action_send_list"/>
+
+    <item
+        android:id="@+id/action_put_alarm"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_alarm_black_24dp"
+        android:title="@string/action_set_alarm"/>
+
+</menu>

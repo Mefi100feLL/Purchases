@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/navigation_drawer_mestoskidki">
+        <menu>
+            <group
+                android:id="@+id/navigation_group_mestoskidki"
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/navigation_shops"
+                    android:icon="@mipmap/ic_store_grey600_24dp"
+                    android:title="@string/navigation_drawer_shops"/>
+                <item
+                    android:id="@+id/navigation_categories"
+                    android:icon="@mipmap/ic_tag_multiple_grey600_24dp"
+                    android:title="@string/navigation_drawer_categories"/>
+            </group>
+        </menu>
+    </item>
+
+    <group
+        android:id="@+id/navigation_group_skidkaonline"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_skidkaonline"
+            android:icon="@mipmap/ic_sale_grey600_24dp"
+            android:title="@string/navigation_drawer_skidkaonline"/>
+    </group>
+
+    <item android:title="@string/navigation_drawer_shopping_lists">
+        <menu>
+            <group
+                android:id="@+id/navigation_group_shopping_lists"
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/navigation_lists"
+                    android:icon="@mipmap/ic_view_dashboard_grey600_24dp"
+                    android:title="@string/navigation_drawer_lists"/>
+
+                <item
+                    android:id="@+id/navigation_all_products"
+                    android:icon="@mipmap/ic_format_list_bulleted_grey600_24dp"
+                    android:title="@string/navigation_drawer_all_products"/>
+            </group>
+        </menu>
+    </item>
+
+    <group
+        android:id="@+id/navigation_group_settings"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_settings"
+            android:icon="@mipmap/ic_settings_grey600_24dp"
+            android:title="@string/navigation_drawer_settings"/>
+    </group>
+</menu>

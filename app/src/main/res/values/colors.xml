@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/md_indigo_500</color>
+    <color name="colorPrimaryDark">@color/md_indigo_700</color>
+    <color name="colorAccent">@color/md_pink_500</color>
+
+    <color name="swipe_refresh_color_one">@color/md_orange_500</color>
+    <color name="swipe_refresh_color_two">@color/md_blue_500</color>
+    <color name="swipe_refresh_color_three">@color/md_red_500</color>
+
+
+    <color name="ripple_color">#FF000000</color>
+    <color name="grey200">#22555555</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+
+    <color name="primary_text_invert">#FFFFFFFF</color>
+    <color name="secondary_text_invert">#B2FFFFFF</color>
+</resources>
